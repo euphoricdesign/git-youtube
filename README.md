@@ -11,3 +11,4 @@
 9. git checkout master
 10. git branch -d rama-heroes (para borrar una rama una vez que terminemos de usarla y ya no nos sirva)
 11. git push
+12. git commit -am (git add . y git commit -m "" en un solo comando
